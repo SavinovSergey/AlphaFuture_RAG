@@ -1,0 +1,8 @@
+numpy==2.2.0
+pandas==2.2.3
+torch==2.8.0
+transformers==4.56.2
+tqdm==4.67.1
+langchain-text-splitters==1.0.0
+openai==2.8.1
+vllm==0.11.0
